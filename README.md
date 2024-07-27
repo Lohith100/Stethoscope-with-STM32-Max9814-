@@ -20,9 +20,9 @@ A simple electronic stethoscope made with stm32 dicovery board and uses max9814 
 ## Connections
 
 > Common ground the GAIN, GND of Max9814 , Gnd of PAM8403 ,STM32
-3.3v Rail for max9814,stm32 & 5v for PAM8403
-PA4 of STM32 connected to PAM module L or R IN 
-connect speaker to L or R out of pam8403
+> 3.3v Rail for max9814,stm32 & 5v for PAM8403
+> PA4 of STM32 connected to PAM module L or R IN 
+> connect speaker to L or R out of pam8403
 
 
 ## Images
